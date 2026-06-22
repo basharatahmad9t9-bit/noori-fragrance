@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noori Fragrance</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Noori Fragrance</h1>
+        <p>Luxury Perfume Brand</p>
+    </header>
+
+    <section class="hero">
+        <h2>Feel the Elegance</h2>
+        <p>Premium scents for your personality</p>
+        <button>Shop Now</button>
+    </section>
+
+    <section class="products">
+        <h2>Our Perfumes</h2>
+
+        <div class="card">
+            <h3>Marj</h3>
+            <p>Elegant & Fresh scent</p>
+            <p class="price">PKR 2850</p>
+        </div>
+
+        <div class="card">
+            <h3>Noori Special</h3>
+            <p>Luxury long-lasting fragrance</p>
+            <p class="price">PKR 2850</p>
+        </div>
+
+    </section>
+
+    <footer>
+        <p>Contact: basharatahmad9t9@gmail.com</p>
+    </footer>
+
+</body>
+</html>
